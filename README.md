@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Getting started...
+Hey everyone!  I'm newer to coding and looking forward to getting creative!
